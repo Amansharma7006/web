@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:33:53	225/225	---M--	303	error ('See%20Other')	text/html		http://demo.themewagon.com/preview/free-html5-real-estate-template-download	C:/Users/Aman/Desktop/web%20app/erent3/demo.themewagon.com/preview/free-html5-real-estate-template-download.0.delayed	(from )
+08:33:54	1770/1770	---M--	200	added ('OK')	text/html		http://192.168.10.16:1000/fgtauth?0103170bcd4d29ca	C:/Users/Aman/Desktop/web%20app/erent3/192.168.10.16_1000/fgtauth0a02.html	(from )
+08:33:54	1693/1693	---M--	200	added ('OK')	image/png		http://192.168.10.16:1000/XX/YY/ZZ/CI/MGPGHGPGPFGGHHPFBGFHEHIG	C:/Users/Aman/Desktop/web%20app/erent3/192.168.10.16_1000/XX/YY/ZZ/CI/MGPGHGPGPFGGHHPFBGFHEHIG.png	(from http://192.168.10.16:1000/fgtauth?0103170bcd4d29ca)
