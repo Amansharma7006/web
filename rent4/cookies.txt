@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.themewagon.com	TRUE	/	FALSE	1999999999	PHPSESSID	1024s0qac1i637gjdtd5cirsu6
+demo.themewagon.com	TRUE	/	FALSE	1999999999	_wpas_session	0fe0ec2546087ff0ac65fe39c8895dbf%7C%7C1564205709%7C%7C1564205349
+
